@@ -174,6 +174,7 @@
                 <img src="gambar7.jpg" alt="Miniatur Jembatan 7">
                 <img src="gambar8.jpg" alt="Miniatur Jembatan 8">
                 <img src="gambar9.jpg" alt="Miniatur Jembatan 9">
+                <img src="gambar10.jpg" alt="Miniatur Jembatan 10">
                 <!-- Lanjutkan sampai gambar ke-10 -->
             </div>
         </section>
